@@ -61,6 +61,10 @@ ul li, ol li {
   list-style: none;
 }
 
+.endolist {
+  list-style: disc;
+  padding-left: 40px;
+}
 
 .hero-heading {
   font-size: 48px;
@@ -122,7 +126,6 @@ ul li, ol li {
 .section-subtitle-emphasize {
   font-weight:bold;
   font-size: 20px;
-
 }
 
 .btn {
@@ -406,7 +409,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-weight: 700;
 }
 
-/* Resume */
+.faqs-section {
+  background-color: #dcdcdc
+}
+
 .timeline {
   position: relative;
 }
@@ -430,7 +436,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .timeline li .line-title {
   font-size: 16px;
-  
+
 }
 
 .timeline li span {
@@ -932,10 +938,16 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #fff;
 }
 
+.endocannabinoid {
+  background: #f2f2f2;
+}
+
 /* Science Item */
 .science {
-  background: #F0F0F0;
+  background: #fff;
 }
+
+
 
 .science-holder {
   padding-bottom: 15px;
