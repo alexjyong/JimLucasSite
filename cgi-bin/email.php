@@ -1,7 +1,25 @@
 <?php
-    main();
+
+if (is_ajax()) {
+  if (isset($_POST["action"]) && !empty($_POST["action"])) { //Checks if action value exists
+    $action = $_POST["action"];
+    switch($action) { //Switch case for value of action
+      case "test": main(); breal;
+    }
+  }
+}
+else {
+        header('Content-Type: application/json');
+    echo("bad");
+}
+
+//Function to check if the request is an AJAX request
+function is_ajax() {
+  return isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest';
+}
+
     function main() {
- 
+        header('Content-Type: application/json');
         $email_to = "alexjyong@gmail.com";
         // validation expected data exists
         if(!isset($_POST['form_firstname']) ||
@@ -21,9 +39,10 @@
         }
         if(!$captcha){
             $return = $_POST;
-            $result["error"] = json_encode("Please check the the captcha form");
-            echo json_encode($return);
-          return;
+            $result["error"] = json_encode("Please check the captcha form");
+            //echo json_encode($return);
+            echo json_encode("Please check the captcha form");
+              return;
         }
         if($response['success'] == false)
         {

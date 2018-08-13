@@ -114,6 +114,29 @@
       });
 
 
+	//handle email sending
+    /*
+    $( "#contact-form" ).submit(function( event ) {
+            var data = $("#contact-form :input").serializeArray();
+            data['g-recaptcha-response'] = $('.g-recaptcha').val();
+            $("#error").hide();
+            $("#success").hide();
+            $.ajax({
+                url: 'cgi-bin/email.php',
+                type: 'POST',
+                data: data,
+                success: function(msg) {
+                   console.log(msg); 
+                },
+                error: function(msg) {
+                    $("#error").show();
+                    $("#error").text("There was an issue sending your message. Please try again later, or contact us via Facebook.");
+                }               
+            });
+
+
+    });
+    */
   });  //end window on load
 
 }(jQuery));
