@@ -39,6 +39,7 @@
     <! -- <link rel="stylesheet" type="text/css" href="assets/css/fontello-ie7.css">
     <link rel="stylesheet" type="text/css" href="assets/css/fontello-ie7-codes.css"> -->
     <link rel="stylesheet" type="text/css" href="assets/css/fontello-embedded.css">
+	<script src='https://www.google.com/recaptcha/api.js'></script>
 
   </head>
   <body>
@@ -673,7 +674,7 @@
                 <h2>Contact Form</h2><br>
                 <div class="text-center">
 
-                  <form id="contact-form" method="post" action="assets/php/contact.pl" role="form">
+                  <form id="contact-form" method="post" action="cgi-bin/email.php" role="form">
 
                       <div class="messages"></div>
 
@@ -683,14 +684,14 @@
                               <div class="col-md-6">
                                   <div class="form-group">
                                       <label for="form_name">First Name *</label>
-                                      <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
+                                      <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your first name *" required="required" data-error="First name is required.">
                                       <div class="help-block with-errors"></div>
                                   </div>
                               </div>
                               <div class="col-md-6">
                                   <div class="form-group">
                                       <label for="form_lastname">Last Name *</label>
-                                      <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
+                                      <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your last name *" required="required" data-error="Last name is required.">
                                       <div class="help-block with-errors"></div>
                                   </div>
                               </div>
@@ -719,6 +720,9 @@
                                       <div class="help-block with-errors"></div>
                                   </div>
                               </div>
+				<!-- <div class="col-md-12">
+					<div class="g-recaptcha" data-sitekey="6Ldgw2kUAAAAAKhfi3-c-znl10nhbfcyUm4u3kV0"></div>
+				</div> -->
                               <div class="col-md-12">
                                   <input type="submit" class="btn btn-success btn-send" value="Send message">
                               </div>
