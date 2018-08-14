@@ -7,6 +7,19 @@
 
     <title>Jim Lucas - Indiana's Leading Medical Cannabis Advocate</title>
 
+	<meta property="og:type" content="article" />
+  <meta property="og:url" content="http://jimlucas.org" />
+  <meta property="og:title" content="Jim Lucas - Indiana's Leading Medical Cannabis Advocate" />
+  <meta property="og:description" content="A Libertarian Republican fighting for medical cannabis rights for all Hoosiers!" />
+  <meta property="og:image" content="https://jimlucas.org/assets/img/logoJimBlue.png" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" value="jimlucas.org" />
+  <meta name="twitter:title" value="Jim Lucas - Indiana's Leading Medical Cannabis Advocate" />
+  <meta name="twitter:description" value="A Libertarian Republican fighting for medical cannabis rights for all Hoosiers!" />
+  <meta name="twitter:image" content="http://jimlucas.org/assets/img/logoJimBlue.png" />
+  <meta name="twitter:url" value="http://jimlucas.org" />
+
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
     <link rel="shortcut icon" href="assets/img/favicon.ico">
@@ -682,8 +695,8 @@
                           <div class="row">
                               <div class="col-md-6">
                                   <div class="form-group">
-                                      <label for="form_name">First Name *</label>
-                                      <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
+                                      <label for="form_firstname">First Name *</label>
+                                      <input id="form_firstname" type="text" name="name" class="form-control" placeholder="Please enter your firstname *" required="required" data-error="Firstname is required.">
                                       <div class="help-block with-errors"></div>
                                   </div>
                               </div>
@@ -722,6 +735,10 @@
                               <div class="col-md-12">
                                   <input type="submit" class="btn btn-success btn-send" value="Send message">
                               </div>
+                              <div class="alert alert-success" id="success" role="alert">
+                                </div>
+                                <div class="alert alert-danger" id="fail" role="alert">
+                                </div>
                           </div>
                           <div class="row">
                               <div class="col-md-12">
