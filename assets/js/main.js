@@ -113,6 +113,14 @@
           // Click code here...
       });
 
+    $('.nav-link').click(function(event){
+        var newurl = window.location.protocol + "//" + window.location.host + "/";
+        var link = event.target;
+        var href = $(link).attr("href");
+        newurl += href;
+        window.history.pushState({path:newurl},'',newurl);
+    });
+
 
 	//handle email sending
     /*
