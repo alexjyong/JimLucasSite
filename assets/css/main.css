@@ -44,6 +44,9 @@ a a:focus {
   outline: none;
 }
 
+.wow {
+  visibility: hidden;
+}
 
 p {
   font-weight: 400;
