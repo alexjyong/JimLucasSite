@@ -11,6 +11,14 @@
       data_json = json;
 
     });
+      /* WOW Scroll Spy
+    ========================================================*/
+     var wow = new WOW({
+      //disabled for mobile
+        mobile: false
+    });
+
+    wow.init();
 
     /*
    MixitUp
@@ -29,7 +37,7 @@
 
   /*Page Loader active
     ========================================================*/
-    $('#preloader').fadeOut();
+//    $('#preloader').fadeOut();
 
   // Sticky Nav
     $(window).on('scroll', function() {
@@ -51,14 +59,6 @@
         openedSymbol: '<i class="icon-arrow-down"></i>',
       });
 
-      /* WOW Scroll Spy
-    ========================================================*/
-     var wow = new WOW({
-      //disabled for mobile
-        mobile: false
-    });
-
-    wow.init();
 
     /* Nivo Lightbox
     ========================================================*/
@@ -105,6 +105,7 @@
         $(".modal-body").html(modal_body);
 
         ///show the modal yo
+        $(".modal-body > .list_override > li >ul >li> a").attr("target", "_blank");
         $("#myModal").modal('show');
       });
 
