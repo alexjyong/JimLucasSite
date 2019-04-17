@@ -1,0 +1,184 @@
+---
+addiction treatment:
+   - fact:
+        body: "Hospitalization rates for opioid painkiller dependence and abuse dropped on average 23 percent in states after marijuana was permitted for medicinal purposes, the analysis found. Hospitalization rates for opioid overdoses dropped 13 percent on average."
+        main_article: "https://www.reuters.com/article/us-health-addiction-medical-marijuana/would-legalizing-medical-marijuana-help-curb-the-opioid-epidemic-idUSKBN16Y2HV"
+        archive_link: "https://web.archive.org/article/us-health-addiction-medical-marijuana/would-legalizing-medical-marijuana-help-curb-the-opioid-epidemic-idUSKBN16Y2HV"
+   - fact:
+        body: "Overall, the endocannabinoid system remains a promising target for addiction treatment. Development of novel medications such as fatty acid amide hydrolase inhibitors and neutral CB1 antagonists promises to extend the range of available interventions."
+        main_article: "https://www.sciencedirect.com/science/article/pii/S0028390817302563"
+        archive_link: "https://web.archive.org/web/20190413224534/https://www.sciencedirect.com/science/article/pii/S0028390817302563"
+   - fact:
+        body: "The growing body of research supporting the medical use of cannabis as an adjunct or substitute for opioids creates an evidence-based rationale for governments, health care providers, and academic researchers to consider the implementation and assessment of cannabis-based interventions in the opioid crisis."
+        main_article: "https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-017-0183-9"
+        archive_link: "https://web.archive.org/web/20171017010507/https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-017-0183-9"
+nausea relief:
+    - fact: 
+        body: "These findings support and extend previous results, indicating that smoked marijuana reduces feelings of nausea and also reduces emesis in this model."
+        main_article: "https://www.researchgate.net/publication/11836523_Antiemetic_efficacy_of_smoked_marijuana_subjective_and_behavioral_effects_on_nausea_induced_by_syrup_of_ipecac"
+        archive_link: "https://web.archive.org/web/20170920121732/https://www.researchgate.net/publication/11836523_Antiemetic_efficacy_of_smoked_marijuana_subjective_and_behavioral_effects_on_nausea_induced_by_syrup_of_ipecac"
+    - fact:
+        body: "Preclinical research indicates that cannabinioids, including CBD, may be effective clinically for treating both nausea and vomiting produced by chemotherapy or other therapeutic treatments."
+        main_article: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165951/"
+        archive_link: "https://web.archive.org/web/20180809012432/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165951/"
+pain management:
+    - fact:
+        body: "The Analgesic Potential of Cannabinoids. How cannabis can be used to treat pain."
+        main_article: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3728280/"
+        archive_link: "https://web.archive.org/save/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3728280/"
+    - fact:
+        body: "'The study by Corey Bloom and her colleagues adds to a growing body of evidence that cannabis has therapeutic value for selected indications, and may be an adjunct or alternative for patients whose spasticity or pain is not optimally managed,” said Igor Grant, MD, director of the CMCR, which provided funding for the study.'"
+        main_article: "https://www.ncbi.nlm.nih.gov/pubmed/19896326"
+        archive_link: "https://web.archive.org/web/20180730014958/https://www.ncbi.nlm.nih.gov/pubmed/19896326"
+    - fact:
+        body: "'Effects of Medical Marijuana on Migraine Headache Frequency in an Adult Population. In the study mentioned, Migraine headache frequency decreased from 10.4 to 4.6 headaches per month (p<0.0001) with the use of medical marijuana.'"
+        main_article: "https://www.ncbi.nlm.nih.gov/pubmed/26749285"
+        archive_link: "https://web.archive.org/web/20180727094412/https://www.ncbi.nlm.nih.gov/pubmed/26749285"
+    - fact:
+        body: "'Results showed that hybrid strains were most preferred across all pain subtypes. Patients with the primary symptoms of migraine and headaches most commonly and specifically preferred the hybrid strain “OG Shark.” It is a rare Canadian blend of 50% indica and 50% sativa. OG Shark is a high THC/low CBD strain with high percentages of β-caryophyllene and β-myrcene. The choice of this strain reflects the potent analgesic and anti-inflammatory properties of THC, β-caryophyllene and β-myrcene.'"
+        main_article: "https://www.rxleaf.com/post/8135/the-power-to-treat-serious-pain-rests-in-two-terpenes-caryophyllene-and-myrcene"
+        archive_link: "https://web.archive.org/web/20180810224319/https://www.rxleaf.com/post/8135/the-power-to-treat-serious-pain-rests-in-two-terpenes-caryophyllene-and-myrcene"
+ptsd:
+    - fact:
+        body: "Evidence is increasingly accumulating that cannabinoids might play a role in fear extinction and antidepressive effects. It is concluded that further studies are warranted in order to evaluate the therapeutic potential of cannabinoids in PTSD."
+        main_article: "https://onlinelibrary.wiley.com/doi/abs/10.1002/dta.1377"
+        archive_link: "https://web.archive.org/web/20180416144601/https://onlinelibrary.wiley.com/doi/abs/10.1002/dta.1377"
+    - fact:
+        body: "In 2012, a team of Brazilian scientists found that chronic stress decreases CB-1 receptor binding and expression in the hippocampus, an area of the brain that plays a major role in short and long-term memory consolidation. This has major implications for treating PTSD."
+        main_article: "https://www.projectcbd.org/about/cannabis-pharmacology/cannabinoid-science-sheds-new-light-darkness-ptsd"
+        archive_link: "https://web.archive.org/web/20180730024052/https://www.projectcbd.org/about/cannabis-pharmacology/cannabinoid-science-sheds-new-light-darkness-ptsd"
+epilepsy:
+    - fact:
+        body: "'These studies lend critical support for treatment of seizures in DS with CBD, extend the scope of CBD treatment to autistic-like behaviors, and provide initial mechanistic insights into CBD’s therapeutic actions.'"
+        main_article: "https://www.pnas.org/content/114/42/11229"
+        archive_link: "https://web.archive.org/web/20180330152141/https://www.pnas.org/content/114/42/11229"
+    - fact:
+        body: "'The researchers reported the intervention reduced motor seizures at a rate similar to existing drugs (a median of 36.5 percent) and 2 percent of patients became completely seizure free.'"
+        main_article: "https://www.scientificamerican.com/article/can-cannabis-treat-epileptic-seizures/"
+        archive_link: "https://web.archive.org/web/20180729181631/https://www.scientificamerican.com/article/can-cannabis-treat-epileptic-seizures/"
+    - fact:
+        body: "Sixteen (84%) of the 19 parents reported a reduction in their child's seizure frequency while taking cannabidiol-enriched cannabis. Of these, two (11%) reported complete seizure freedom, eight (42%) reported a greater than 80% reduction in seizure frequency, and six (32%) reported a 25–60% seizure reduction. Other beneficial effects included increased alertness, better mood, and improved sleep."
+        main_article: "https://www.sciencedirect.com/science/article/pii/S1525505013004629"
+        archive_link: "https://web.archive.org/web/20171031120856/https://www.sciencedirect.com/science/article/pii/S1525505013004629"
+    - fact:
+        body: "'The marijuana extract and synthetic marijuana drugs completely eliminated the rats' seizures, which averaged three over a 10-hour period. The Phenobarbital and phenytoin failed to completely eliminate the seizures. Injection of the CB1 antagonist significantly increased the both the duration and frequency of seizures, in some cases to a level consistent with a severe, prolonged form of epilepsy known as status epilepticus.'"
+        main_article: "https://www.news.vcu.edu/article/Marijuana_and_its_receptor_protein_in_brain_control_epilepsy"
+        archive_link: "https://web.archive.org/web/20180810222919/https://www.news.vcu.edu/article/Marijuana_and_its_receptor_protein_in_brain_control_epilepsy"
+adhd: 
+    - fact:
+        body: "Performance tests, which were conducted with the test batteries ART2020 and TAP provided sufficient and partly over-averaged results in driving related performance. Thus, it has to be considered, that in the case of ADHD, THC can have atypical effects and can even lead to an enhanced driving related performance."
+        main_article: "http://www.cannabis-med.org/english/journal/en_2008_01_1.pdf"
+        archive_link: "https://web.archive.org/web/20180407095601/http://www.cannabis-med.org/english/journal/en_2008_01_1.pdf"
+    - fact:
+        body: "All patients had experienced an improvement of a variety of symptoms by cannabis flowers, including improved concentration and sleep, and reduced impulsivity, by the use of cannabis."
+        main_article: "http://cannabisclinicians.org/wp-content/uploads/2016/02/SUCCESSFUL-THERAPY-OF-TREATMENT-RESISTANT-ADULT-ADHD-WITH-CANNABIS.pdf"
+        archive_link: "https://web.archive.org/web/20180428093607/http://cannabisclinicians.org/wp-content/uploads/2016/02/SUCCESSFUL-THERAPY-OF-TREATMENT-RESISTANT-ADULT-ADHD-WITH-CANNABIS.pdf"
+multiple sclerosis:
+    - fact:
+        body: "These trials have shown that cannabis, D9-tetrahydrocannabinol, and nabilone can produce objective and/or subjective relief from spasticity, pain, tremor, and nocturia in patients with multiple sclerosis (8 trials) or spinal cord injury (1 trial)."
+        archive_link: "https://web.archive.org/web/20170808131526/http://www.mediccanna.com:80/wp-content/uploads/2013/10/Pertwee-R.G.-2002.-Cannabinoids-and-muliple-sclerosis.pdf"
+    - fact:
+        body: "'The study by Corey Bloom and her colleagues adds to a growing body of evidence that cannabis has therapeutic value for selected indications, and may be an adjunct or alternative for patients whose spasticity or pain is not optimally managed,” said Igor Grant, MD, director of the CMCR, which provided funding for the study.'"
+        main_article: "https://health.ucsd.edu/news/releases/Pages/2012-05-14-smoked-cannabis-reduces-symptoms-of-multiple-sclerosis.aspx"
+        archive_link: "https://web.archive.org/web/20170920115730/https://health.ucsd.edu/news/releases/Pages/2012-05-14-smoked-cannabis-reduces-symptoms-of-multiple-sclerosis.aspx"
+    - fact:
+        body: "'Researchers conducted a cross sectional study, asking subjects to complete a survey reporting their experience with medical marijuana certification, usage, and effects. About 77 percent said medical marijuana was helpful in managing symptoms, mainly spasticity and pain. They reported no side effects. Another 70 percent felt their quality of life improved with medical marijuana. Some patients actually reduced other medications used for symptoms..'"
+        main_article: "https://www.healthline.com/health-news/researchers-say-cannabis-can-benefit-people-with-multiple-sclerosis#4"
+        archive_link: "https://web.archive.org/web/20180810223927/https://www.healthline.com/health-news/researchers-say-cannabis-can-benefit-people-with-multiple-sclerosis"
+alzheimer's disease:
+    - fact:
+        body: "Scientists have found preliminary evidence that tetrahydrocannabinol (THC) and other compounds found in marijuana can promote the cellular removal of amyloid beta, a toxic protein associated with Alzheimer's disease."
+        main_article: "https://www.sciencedaily.com/releases/2016/06/160629095609.htm"
+        archive_link: "https://web.archive.org/web/20180308085542/https://www.sciencedaily.com/releases/2016/06/160629095609.htm"
+    - fact:
+        body: "According to the new Scripps Research study, which used both computer modeling and biochemical assays, THC inhibits the enzyme acetylcholinesterase (AChE), which acts as a 'molecular chaperone' to accelerate the formation of amyloid plaque in the brains of Alzheimer victims."
+        main_article: "https://www.scripps.edu/news/press/2006/080906.html"
+        archive_link: "https://web.archive.org/web/20180723121022/https://www.scripps.edu/news/press/2006/080906.html"
+    - fact:
+        body: "Furthermore, THC was effective at lowering both total GSK-3β levels and phosphorylated GSK-3β in a dose-dependent manner at low concentrations. At the treatment concentrations, no toxicity was observed and the CB1 receptor was not significantly upregulated. Additionally, low doses of THC can enhance mitochondria function and does not inhibit melatonin's enhancement of mitochondria function."
+        main_article: "https://content.iospress.com/articles/journal-of-alzheimers-disease/jad140093"
+        archive_link: "https://web.archive.org/web/20180223053230/https://content.iospress.com/articles/journal-of-alzheimers-disease/jad140093"
+crohn's disease: 
+    - fact:
+        body: "'A short course (8 weeks) of THC-rich cannabis produced significant clinical, steroid-free benefits to 10 of 11 patients with active Crohn's disease, compared with placebo, without side effects.'"
+        main_article: "https://www.ncbi.nlm.nih.gov/pubmed/23648372"
+        archive_link: "https://web.archive.org/web/20170919015849/https://www.ncbi.nlm.nih.gov/pubmed/23648372"
+    - fact:
+        body: "Results: Of the 30 patients, 21 improved significantly after treatment with cannabis. The average Harvey Bradshaw index improved from 14 ± 6.7 to 7 ± 4.7 (P< 0.001). The need for other medication was significantly reduced. Fifteen of the patients had 19 surgeries during an average period of 9 years before cannabis use, but only 2 required surgery during an average period of 3 years of cannabis use. "
+        main_article: "https://www.theroc.us/researchlibrary/Treatment%20of%20Crohn%E2%80%99s%20Disease%20with%20Cannabis-%20An%20Observational%20Study.pdf"
+        archive_link: "https://web.archive.org/web/20180730013824/https://www.theroc.us/researchlibrary/Treatment%20of%20Crohn%E2%80%99s%20Disease%20with%20Cannabis-%20An%20Observational%20Study.pdf"
+depression relief: 
+    - fact:
+        body: "Chronic stress is one of the major causes of depression,” Haj-Dahmane says. “Using compounds derived from cannabis — marijuana — to restore normal endocannabinoid function could potentially help stabilize moods and ease depression."
+        main_article: "http://www.buffalo.edu/news/releases/2015/02/004.html"
+        archive_link: "https://web.archive.org/web/20170920122117/http://www.buffalo.edu/news/releases/2015/02/004.html"
+    - fact:
+        body: "...Large majorities considered it very effective in providing appetite stimulation (75%), aiding sleep (65%), relieving anxiety (80%), relieving depression (70%), and providing muscle relaxation (60%). 33% of the surveyed patients live in a state in which medical marijuana is legally available and, of that group, 18% have availed themselves of marijuana."
+        main_article: "https://www.neurology.org/content/82/10_Supplement/P3.014"
+        archive_link: "https://web.archive.org/web/20170919022640/http://www.neurology.org/content/82/10_Supplement/P3.014"
+autism:
+    - fact:
+        body: "Israel Studies Potential of Medical Marijuana as a Treatment for Autism."
+        main_article: "https://www.entrepreneur.com/article/294110"
+        archive_link: "https://web.archive.org/web/20170920234237/https://www.entrepreneur.com/article/294110"
+    - fact:
+        body: "Tamir Gedo, CEO of Breath of Life Pharma, which provides the cannabis oil for the study, said one mother reported, \"My child is speaking relentlessly. … He never spoke before. And he's 12 years old.\""
+        main_article: "https://www.usatoday.com/story/news/world/2017/04/25/marijuana-pot-treatment-children-autism-cannabis-oil/100381156/"
+        archive_link: "https://web.archive.org/web/20170919024021/https://www.usatoday.com/story/news/world/2017/04/25/marijuana-pot-treatment-children-autism-cannabis-oil/100381156/"
+    - fact:
+        body: "We demonstrate here that treatment with CBD is beneficial for seizure frequency, duration, and severity and for autistic-like social deficits in a mouse model of DS. CBD rescue of DS symptoms is associated with increased inhibitory neurotransmission, potentially mediated by antagonism of the lipid-activated G protein-coupled receptor GPR55."
+        main_article: "https://www.pnas.org/content/114/42/11229"
+        archive_link: "https://web.archive.org/web/20180330152141/https://www.pnas.org/content/114/42/11229"
+    - fact:
+        body: "Here’s what they reported: * 80% of parents noted a decrease in problematic behaviors, with 62% reporting significant improvements. * Half of the children had improved communication. * 40% reported significant decreases in anxiety. (Note: one-third of the study participants began the study with no anxiety.)"
+        main_article: "https://www.leafly.com/news/health/research-cbd-autism-therapy-promising-results?utm_source=Sailthru&utm_medium=email&utm_campaign=B2C%20-%20Nat%27l%20Newsletter%20-%208/10/18"
+        archive_link: "https://web.archive.org/web/20180810222350/https://www.leafly.com/news/health/research-cbd-autism-therapy-promising-results?utm_source=Sailthru&utm_medium=email&utm_campaign=B2C%20-%20Nat%27l%20Newsletter%20-%208/10/18"
+asthma (yes, really): 
+    - fact:
+        body: "Marihuana smoke, unlike cigarette smoke, causes bronchodilatation rather than bronchoconstriction and, unlike opiates, does not cause central respiratory depression."
+        main_article: "https://www.nejm.org/doi/full/10.1056/NEJM197305102881902"
+        archive_link: "https://web.archive.org/web/20180725212633/https://www.nejm.org/doi/full/10.1056/NEJM197305102881902"
+    - fact:
+        body: "After methacholine-induced bronchospasm, placebo marijuana and saline inhalation produced minimal changes in specific airway conductance and thoracic gas volume, whereas 2.0 per cent marijuana and isoproterenol each caused a prompt correction of the bronchospasm and associated hyperinflation. After exercise-induced bronchospasm, placebo marijuana and saline were followed by gradual recovery during 30 to 60 min, whereas 2.0 per cent marijuana and isoproterenol caused an immediate reversal of exercise-induced asthma and hyperinflation."
+        main_article: "https://www.ncbi.nlm.nih.gov/pubmed/1099949"
+        archive_link: "https://web.archive.org/web/20180730025145/https://www.ncbi.nlm.nih.gov/pubmed/1099949"
+insomnia: 
+    - fact:
+        body: "Higher evening THC and 11‐OH‐THC concentrations were significantly associated with shorter sleep latency, less difficulty falling asleep, and more daytime sleep the following day."
+        main_article: "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1521-0391.2013.12003.x"
+        archive_link: ""
+    - fact:
+        body: "CBD may hold promise for REM sleep behavior disorder and excessive daytime sleepiness, while nabilone may reduce nightmares associated with PTSD and may improve sleep among patients with chronic pain."
+        main_article: "https://www.ncbi.nlm.nih.gov/pubmed/28349316"
+        archive_link: "https://web.archive.org/web/20180812163958/https://www.ncbi.nlm.nih.gov/pubmed/28349316"
+arthritis: 
+    - fact:
+        body: "Cannabinoid receptors, in particular the CB2 receptor, and the endocannabinoids anandamide and 2-arachidonoylglycerol (2-AG) have been found in the joint tissues of arthritis patients, but not in healthy subjects. The endocannabinoids, anandamide and 2-AG, are produced naturally in the body, and so this data suggests that the endocannabinoid system is likely part of an anti-inflammatory feedback loop. Targeting the receptors in the endocannabinoid system could help strengthen the anti-inflammatory effect and perhaps be used to treat RA and OA."
+        main_article: "https://www.rxleaf.com/post/2742/2742"
+        archive_link: "https://web.archive.org/web/20190414001710/https://www.rxleaf.com/2742"
+    - fact:
+        body: "Preclinical and clinical studies using cannabis-based therapy have been shown to provide both analgesia and anti-inflammatory effects, with an overall alleviation of clinical symptoms in animal models of arthritis, highlighting its promising therapeutic application for humans."
+        main_article: "https://www.deepdyve.com/lp/wiley/endocannabinoids-in-arthritis-current-views-and-perspective-EcRk5TT8Hy"
+        archive_link: "https://web.archive.org/web/20190414002127/https://www.deepdyve.com/lp/wiley/endocannabinoids-in-arthritis-current-views-and-perspective-EcRk5TT8Hy"
+stroke:
+    - fact:
+        body: "Researchers at the University of Nottingham conducted a meta-analysis of experimental studies into cannabinoids; chemicals related to those found in cannabis, some of which also occur naturally in the body. The findings showed that the compounds could reduce the size of stroke and improve neurological function."
+        main_article: "https://www.nottingham.ac.uk/news/pressreleases/2013/december/compounds-in-cannabis-could-limit-stroke-damage.aspx"
+        archive_link: "https://web.archive.org/web/20170328190243/https://www.nottingham.ac.uk/news/pressreleases/2013/december/compounds-in-cannabis-could-limit-stroke-damage.aspx"
+    - fact:
+        body: "The studies reviewed here are all concordant with the view that cannabinoid-based medicines may serve as a novel therapy able to delay/arrest neurodegeneration in acute and chronic neurodegenerative conditions, owing to their capability of normalizing glutamate homeostasis, reducing oxidative injury, and/or attenuating local inflammatory events, and possibly also by their capability of activating cellular responses (e.g., induction of autophagy) in controlling the toxicity of protein aggregates."
+        main_article: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604192/"
+        archive_link: "https://web.archive.org/web/20180812230734/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604192/"
+cognition:
+    - fact:
+        body: "Results suggest that in general, MMJ patients experienced some improvement on measures of executive functioning, including the Stroop Color Word Test and Trail Making Test, mostly reflected as increased speed in completing tasks without a loss of accuracy."
+        main_article: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062916/"
+        archive_link: "https://web.archive.org/web/20180812233314/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062916/"
+    - fact:
+        body: "Here we show that a low dose of Δ9-tetrahydrocannabinol (THC) reversed the age-related decline in cognitive performance of mice aged 12 and 18 months. This behavioral effect was accompanied by enhanced expression of synaptic marker proteins and increased hippocampal spine density."
+        main_article: "https://www.nature.com/articles/nm.4311"
+        archive_link: "https://web.archive.org/web/20180812232605/https://www.nature.com/articles/nm.4311"
+    - fact:
+        body: "The researchers found that old mice in the study experienced \"a dramatic improvement in cognitive functions\" after the animals were given small daily doses of THC for about a month, said study co-author Andreas Zimmer, a professor of molecular psychiatry at the University of Bonn in Germany."
+        main_article: "https://www.livescience.com/59010-marijuana-compound-thc-may-improve-memory.html"
+        archive_link: "https://web.archive.org/web/20180812232939/https://www.livescience.com/59010-marijuana-compound-thc-may-improve-memory.html"

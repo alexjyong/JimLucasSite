@@ -1,16 +1,26 @@
+/*
+ * Developed by Alex Yong of IndyCann
+ *
+ */
+
 (function($) {
 
   "use strict";
 
   $(window).on('load', function() {
     var data_json;
-
+    var data_yaml;
     $.getJSON("assets/json/modal_data.json", function(json) {
 
       //get modal data
       data_json = json;
 
     });
+    $.get('assets/yaml/modal-data.yaml')
+        .done(function (data) {
+        data_yaml = jsyaml.load(data);
+      });
+        
       /* WOW Scroll Spy
     ========================================================*/
      var wow = new WOW({
@@ -99,19 +109,54 @@
 
         var title = $( this ).find( 'h3' ).text(); //get the title with this ugly hack.
 
-        var modal_body = data_json[title.toLowerCase()];
-
+        //var modal_body = data_json[title.toLowerCase()];
         $("#modal-title").text(title);
-        $(".modal-body").html(modal_body);
+        var yaml_items = data_yaml[title.toLowerCase()];
 
+        var complete_html = "";
+
+        for (var i =0; i< yaml_items.length; i++) {
+            var yaml_item = yaml_items[i];
+            var fact = yaml_item.fact;
+            var body = fact.body;
+            var main_article;
+            var archive_link;
+            var html_item ="";
+            if (fact.main_article) {
+                main_article = fact.main_article;
+            }
+
+            if (fact.archive_link) {
+                archive_link = fact.archive_link;
+            }
+            html_item = "<ul class='list_override'>\n<li>";
+            html_item += body + "\n<ul>";
+            if (main_article) {
+                html_item += "<li>";
+                html_item += "<a target='_blank' href='"+main_article +"'>Main Link</a>";
+                html_item += "</li>";
+            }
+            if (archive_link) {
+                html_item += "<li>";
+                html_item += "<a target='_blank' href='"+archive_link +"'>Archive Link</a>";
+                html_item += "</li>";
+
+            }
+            html_item += "</ul></li></ul><br/>";
+            complete_html += html_item;
+
+        }
+
+        $(".modal-body").html(complete_html);
+
+        //make the urls open in a new window.
+        //$(".modal-body > .list_override > li >ul >li> a").attr("target", "_blank");
         ///show the modal yo
-        $(".modal-body > .list_override > li >ul >li> a").attr("target", "_blank");
         $("#myModal").modal('show');
       });
 
       $('.science-item-text').click(function(event){
           event.preventDefault();
-          // Click code here...
       });
 
     $('.nav-link').click(function(event){
