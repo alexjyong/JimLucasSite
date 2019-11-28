@@ -167,30 +167,34 @@
         window.history.pushState({path:newurl},'',newurl);
     });
 
+    $('#rxleaf_search_btn').click(function(event){
+        var value = $('#rxleaf_search').val();
 
-	//handle email sending
-    /*
-    $( "#contact-form" ).submit(function( event ) {
-            var data = $("#contact-form :input").serializeArray();
-            data['g-recaptcha-response'] = $('.g-recaptcha').val();
-            $("#error").hide();
-            $("#success").hide();
-            $.ajax({
-                url: 'cgi-bin/email.php',
-                type: 'POST',
-                data: data,
-                success: function(msg) {
-                   console.log(msg); 
-                },
-                error: function(msg) {
-                    $("#error").show();
-                    $("#error").text("There was an issue sending your message. Please try again later, or contact us via Facebook.");
-                }               
-            });
-
-
+        //if they pass in a blank string
+        if (value == '' || value.match(/^\s+$/)){
+            alert("Please enter a search value!");
+        }
+            //take them to rxleaf's search
+        else {
+            var url = "https://www.rxleaf.com/?s="+ value;
+            window.open(url, '_blank');
+        }
     });
-    */
+    $('#leafly_search_btn').click(function(event){
+        var value = $('#leafly_search').val();
+
+        //if they pass in a blank string
+        if (value == '' || value.match(/^\s+$/)){
+            alert("Please enter a search value!");
+        }
+            //take them to leafly's search
+        else {
+            var url = "https://www.leafly.com/search?q=" + value;
+            window.open(url, '_blank');
+        }
+    });
+
+
   });  //end window on load
 
 }(jQuery));
